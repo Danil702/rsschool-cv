@@ -1,0 +1,32 @@
+body{
+background: linear-gradient(to top left, powderblue, pink);
+}
+.but_ent{
+    font-size: 50px;
+    background-color:rgb(90, 96, 96)
+}
+h1{
+    color: blanchedalmond;
+    font-size: 100px;
+}
+.but{
+    font-size: 50px;
+    background-color: aliceblue;
+    color: black;
+}
+p{
+    color: aliceblue;
+    font-size: 30px;
+}
+input{
+    font-size: 50px;
+}
+.block{
+    margin-left: 15%;
+    margin-right: 15%;
+    display: none;
+}
+.a{
+    margin-left: 25%;
+    margin-right: 25%;
+}
