@@ -5,6 +5,8 @@ KIM DANIL
 1.Telegram: @danilelgato
 
 2.Email: danil_kim_2005@mail.ru
+
+3.Discord: eblanit' enjoyer#6806
 ## ABOUT ME:
 I have recently started studying programming, I have always been interested in how websites, programs, antiviruses, etc. work. I started my journey with HTML, CSS and JS. I studied from https://learn.javascript.ru/ and videos on GetCourse. So far, I'm not doing very well, but I want to say so far, because I have a great desire and incentive to work. I really want to become a website developer for some Korean company. I am learning their language and in the future I want to study there and maybe even stay to live. I believe in myself and in my abilities and that I will be able to master all the work at this school
 ## CODE EXAMPLE
